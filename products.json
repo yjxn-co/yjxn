@@ -1,0 +1,263 @@
+[
+  {
+    "cat": "車型應用",
+    "name": "CYGUNS-X／NEW-CYGUNS-X",
+    "code": "p1.jpg / p2.jpg",
+    "spec": "車型與配件型錄・共2張",
+    "img": "assets/branded-catalog/p1.svg",
+    "keywords": "CYGNUS-X NEW-CYGNUS-X",
+    "images": [
+      {
+        "src": "assets/branded-catalog/p1.svg",
+        "label": "車型型錄",
+        "code": "p1.jpg"
+      },
+      {
+        "src": "assets/branded-catalog/p2.svg",
+        "label": "配件型錄",
+        "code": "p2.jpg"
+      }
+    ],
+    "url": "vehicle-cygnus-x.html"
+  },
+  {
+    "cat": "車型應用",
+    "name": "HONDA PCX",
+    "code": "p3.jpg / p4.jpg",
+    "spec": "車型與配件型錄・共2張",
+    "img": "assets/branded-catalog/p3.svg",
+    "keywords": "PCX",
+    "images": [
+      {
+        "src": "assets/branded-catalog/p3.svg",
+        "label": "車型型錄",
+        "code": "p3.jpg"
+      },
+      {
+        "src": "assets/branded-catalog/p4.svg",
+        "label": "配件型錄",
+        "code": "p4.jpg"
+      }
+    ],
+    "url": "vehicle-honda-pcx.html"
+  },
+  {
+    "cat": "車型應用",
+    "name": "ADDRESS V125",
+    "code": "p5.jpg / p6.jpg",
+    "spec": "車型與配件型錄・共2張",
+    "img": "assets/branded-catalog/p5.svg",
+    "keywords": "ADDRESS V125",
+    "images": [
+      {
+        "src": "assets/branded-catalog/p5.svg",
+        "label": "車型型錄",
+        "code": "p5.jpg"
+      },
+      {
+        "src": "assets/branded-catalog/p6.svg",
+        "label": "配件型錄",
+        "code": "p6.jpg"
+      }
+    ],
+    "url": "vehicle-address-v125.html"
+  },
+  {
+    "cat": "車型應用",
+    "name": "BWS100",
+    "code": "p7.jpg / p8.jpg",
+    "spec": "車型與配件型錄・共2張",
+    "img": "assets/branded-catalog/p7.svg",
+    "keywords": "BWS 100",
+    "images": [
+      {
+        "src": "assets/branded-catalog/p7.svg",
+        "label": "車型型錄",
+        "code": "p7.jpg"
+      },
+      {
+        "src": "assets/branded-catalog/p8.svg",
+        "label": "配件型錄",
+        "code": "p8.jpg"
+      }
+    ],
+    "url": "vehicle-bws100.html"
+  },
+  {
+    "cat": "車型應用",
+    "name": "JOG",
+    "code": "p9.jpg / p10.jpg",
+    "spec": "車型與配件型錄・共2張",
+    "img": "assets/branded-catalog/p9.svg",
+    "keywords": "JOG",
+    "images": [
+      {
+        "src": "assets/branded-catalog/p9.svg",
+        "label": "車型型錄",
+        "code": "p9.jpg"
+      },
+      {
+        "src": "assets/branded-catalog/p10.svg",
+        "label": "配件型錄",
+        "code": "p10.jpg"
+      }
+    ],
+    "url": "vehicle-jog.html"
+  },
+  {
+    "cat": "車型應用",
+    "name": "DIO ZX",
+    "code": "p11.jpg / p12.jpg",
+    "spec": "車型與配件型錄・共2張",
+    "img": "assets/branded-catalog/p11.svg",
+    "keywords": "DIO ZX",
+    "images": [
+      {
+        "src": "assets/branded-catalog/p11.svg",
+        "label": "車型型錄",
+        "code": "p11.jpg"
+      },
+      {
+        "src": "assets/branded-catalog/p12.svg",
+        "label": "配件型錄",
+        "code": "p12.jpg"
+      }
+    ],
+    "url": "vehicle-dio-zx.html"
+  },
+  {
+    "cat": "車型應用",
+    "name": "MONKEY",
+    "code": "p13.jpg / p14.jpg",
+    "spec": "車型與配件型錄・共2張",
+    "img": "assets/2015dm/p13.jpg",
+    "keywords": "MONKEY",
+    "images": [
+      {
+        "src": "assets/2015dm/p13.jpg",
+        "label": "車型型錄",
+        "code": "p13.jpg"
+      },
+      {
+        "src": "assets/branded-catalog/p14.svg",
+        "label": "配件型錄",
+        "code": "p14.jpg"
+      }
+    ],
+    "url": "vehicle-monkey.html"
+  },
+  {
+    "cat": "車型應用",
+    "name": "APE 50／APE100",
+    "code": "p15.jpg / p16.jpg",
+    "spec": "車型與配件型錄・共2張",
+    "img": "assets/branded-catalog/p15.svg",
+    "keywords": "APE50 APE 100",
+    "images": [
+      {
+        "src": "assets/branded-catalog/p15.svg",
+        "label": "車型型錄",
+        "code": "p15.jpg"
+      },
+      {
+        "src": "assets/branded-catalog/p16.svg",
+        "label": "配件型錄",
+        "code": "p16.jpg"
+      }
+    ],
+    "url": "vehicle-ape50-ape100.html"
+  },
+  {
+    "cat": "車型應用",
+    "name": "HONDA ZOOMER",
+    "code": "p17.jpg / p18.jpg",
+    "spec": "車型與配件型錄・共2張",
+    "img": "assets/branded-catalog/p17.svg",
+    "keywords": "ZOOMER",
+    "images": [
+      {
+        "src": "assets/branded-catalog/p17.svg",
+        "label": "車型型錄",
+        "code": "p17.jpg"
+      },
+      {
+        "src": "assets/branded-catalog/p18.svg",
+        "label": "配件型錄",
+        "code": "p18.jpg"
+      }
+    ],
+    "url": "vehicle-honda-zoomer.html"
+  },
+  {
+    "cat": "車型應用",
+    "name": "CY6 150",
+    "code": "p19.jpg",
+    "spec": "車型應用型錄",
+    "img": "assets/branded-catalog/p19.svg",
+    "keywords": "GY6 150",
+    "images": [
+      {
+        "src": "assets/branded-catalog/p19.svg",
+        "label": "車型型錄",
+        "code": "p19.jpg"
+      }
+    ],
+    "url": "vehicle-cy6-150.html"
+  },
+  {
+    "cat": "產品總覽",
+    "name": "貨架與支架",
+    "code": "p20.jpg",
+    "spec": "2015產品型錄・第20頁",
+    "img": "assets/branded-catalog/p20.svg",
+    "images": [
+      {
+        "src": "assets/branded-catalog/p20.svg",
+        "label": "產品型錄",
+        "code": "p20.jpg"
+      }
+    ]
+  },
+  {
+    "cat": "產品總覽",
+    "name": "排氣管產品總覽",
+    "code": "p22.jpg",
+    "spec": "2015產品型錄・第22頁",
+    "img": "assets/branded-catalog/p22.svg",
+    "images": [
+      {
+        "src": "assets/branded-catalog/p22.svg",
+        "label": "產品型錄",
+        "code": "p22.jpg"
+      }
+    ]
+  },
+  {
+    "cat": "產品總覽",
+    "name": "煞車碟盤產品總覽",
+    "code": "p23.jpg",
+    "spec": "2015產品型錄・第23頁",
+    "img": "assets/branded-catalog/p23.svg",
+    "images": [
+      {
+        "src": "assets/branded-catalog/p23.svg",
+        "label": "產品型錄",
+        "code": "p23.jpg"
+      }
+    ]
+  },
+  {
+    "cat": "產品總覽",
+    "name": "CNC鋁製品與配件",
+    "code": "p24.jpg",
+    "spec": "2015產品型錄・第24頁",
+    "img": "assets/branded-catalog/p24.svg",
+    "images": [
+      {
+        "src": "assets/branded-catalog/p24.svg",
+        "label": "產品型錄",
+        "code": "p24.jpg"
+      }
+    ]
+  }
+]
